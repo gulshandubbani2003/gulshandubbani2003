@@ -1,7 +1,6 @@
-## Hi 👋, I'm Gulshan Dubbani
+## Hi, I'm Gulshan Dubbani
 
 **DevOps • AI/ML • Quant Dev • Data Analyst**  
-Grit over talent. I build scalable backends, trading infra, and real-time AI systems.
 
 - 🔭 Currently: Algorithmic trading infra; Java/Spark/Kafka microservices
 - 💬 Ask me about: AWS, Terraform, Docker/K8s, Kafka, Spark, TensorFlow, LSTM, CV
