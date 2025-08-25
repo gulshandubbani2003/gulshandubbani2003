@@ -4,15 +4,8 @@
 
 - 🔭 Currently: Algorithmic trading infra; Java/Spark/Kafka microservices
 - 💬 Ask me about: AWS, Terraform, Docker/K8s, Kafka, Spark, TensorFlow, LSTM, CV
-- 🧠 DSA: 600+ combined (Code360/LC/GfG)
+- 🧠 DSA: 600+ combined (Code360,LC,GfG, etc.)
 - 📫 Email: [gulshandubbani2003@gmail.com](mailto:gulshandubbani2003@gmail.com)
-
----
-
-### 🔎 About
-- I design resilient, low-latency data systems and ML workflows end to end.
-- Strong bias for automation: infra as code, reproducible builds, CI/CD-first.
-- Efficient with Python for rapid prototyping; production with Java and containers.
 
 ---
 
