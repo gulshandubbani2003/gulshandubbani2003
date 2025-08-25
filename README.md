@@ -44,20 +44,11 @@
 
 ---
 
-### 🚀 Featured Projects
-- **Algorithmic Trading Platform** – Python • AWS • Kafka • Docker • Terraform  
-  Repo: https://github.com/gulshandubbani2003/trading-platform-infra
-- **SupportFlow (Java + Kafka module)** – Java microservices • Kafka • MongoDB  
-  Repo: https://github.com/gulshandubbani2003/SupportFlow
-
----
-
 ### 🧩 Coding Profiles
 - LeetCode: https://leetcode.com/u/gulshandubbani02/  
 - Code360: https://www.naukri.com/code360/profile/7bf6e737-c014-4488-ac0e-6ea76650cf5a  
 - GeeksforGeeks: https://www.geeksforgeeks.org/user/gulshandubgrue/  
 - LinkedIn: https://www.linkedin.com/in/gulshan-dubbani-a679842a2/  
-- GitHub: https://github.com/gulshandubbani2003
 
 ---
 
