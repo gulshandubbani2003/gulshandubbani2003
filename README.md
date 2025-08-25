@@ -6,7 +6,7 @@
 - 💬 Ask me about: AWS, Terraform, Docker/K8s, Kafka, Spark, TensorFlow, LSTM, CV
 - 🧠 DSA: 600+ combined (Code360,LC,GfG, etc.)
 - 📫 Email: [gulshandubbani2003@gmail.com](mailto:gulshandubbani2003@gmail.com)
-
+- 🌐 Portfolio: [gulshandubbani.me](https://gulshandubbani.netlify.app/)
 ---
 
 ### 🧰 Skills (badges)
