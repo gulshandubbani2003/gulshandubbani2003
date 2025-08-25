@@ -9,12 +9,6 @@
 
 ---
 
-### 🚧 Current Work
-- Building an event-driven algorithmic trading platform on AWS with Kafka, Terraform, and Docker.
-- Scaling Java microservices with Kafka streams and MongoDB for SupportFlow.
-
----
-
 ### 🧰 Skills (badges)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
